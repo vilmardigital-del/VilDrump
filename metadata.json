@@ -1,0 +1,6 @@
+{
+  "name": "GDrums",
+  "description": "Clone do aplicativo GDrums — bateria eletrônica e ritmos brasileiros interativos com áudio em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
